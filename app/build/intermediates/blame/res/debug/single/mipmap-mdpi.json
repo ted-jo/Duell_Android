@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\die_img.png",
+        "source": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\src\\main\\res\\mipmap-mdpi\\die_img.png"
+    }
+]

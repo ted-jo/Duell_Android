@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Duell</string>
+    <string name="help">Help</string>
+    <string name="save">Save</string>
+    <string name="clear">Cancel</string>
+    <string name="next">Continue</string>
+    <string name="human">Human Wins: </string>
+    <string name="computer">Computer Wins: </string>
+    <string name="human_roll">You rolled a</string>
+    <string name="computer_roll">The computer rolled a</string>
+    <string name="dice_roll">Roll a Die</string>
+    <string name="human_first">You go first!</string>
+    <string name="computer_first">The computer starts</string>
+    <string name="start">Start Game</string>
+    <string name="human_wins">You won</string>
+    <string name="computer_wins">The computer won</string>
+    <string name="you_win">You\'re winning the tournament!</string>
+    <string name="you_lose">You\'re losing the tournament</string>
+    <string name="play_again">Play Again?</string>
+    <string name="exit">Exit</string>
+    <string name="tie">The tournament is tied</string>
+    <string name="new_game">New Game</string>
+    <string name="load_game">Load Game</string>
+    <string name="ok">OK</string>
+    <string name="author">Created by Ted Johansmeyer</string>
+    <string name="date">December 1st 2016</string>
+    <string name="sure">Are you sure?</string>
+    <string name="lost_game">You lost the game</string>
+    <string name="won_game">You won the game</string>
+    <string name="tournament_win">You won the tournament!</string>
+    <string name="tournament_lose">You lost the tournament</string>
+    <string name="tournament_tie">The tournament ended in a tie</string>
+</resources>

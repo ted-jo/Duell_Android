@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background_image.png",
+        "source": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\src\\main\\res\\drawable-mdpi\\background_image.png"
+    },
+    {
+        "merged": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_help.png",
+        "source": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\src\\main\\res\\drawable-mdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dice.png",
+        "source": "C:\\Users\\TeddyJo\\AndroidStudioProjects\\Duell_Android\\app\\src\\main\\res\\drawable-mdpi\\dice.png"
+    }
+]
